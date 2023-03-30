@@ -1,0 +1,6 @@
+/**
+ * @hide
+ */
+public Context getTestContext() {
+    return mTestContext;
+}
